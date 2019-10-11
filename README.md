@@ -9,7 +9,7 @@ note: hardware can be discussed with other members of the team
 ### AWS DynamoDB:
 ![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/Screen_Shot_2019-10-11_at_4.29.47_PM.png)
 
-![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/Screen_Shot_2019-10-11_at_4.30.02_PM.png)
+![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/Screen_Shot_2019-10-11_at_4.57.28_PM.png)
 
 ### Raspberry Pi:
 ![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/pasted_image0.png)

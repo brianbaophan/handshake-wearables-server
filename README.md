@@ -15,7 +15,7 @@ User-ID table indicates available RFID tags to perform exchange
 ![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/Screen_Shot_2019-10-11_at_4.57.28_PM.png)
 
 ### Raspberry Pi:
-Housed web server for prototype, communicate through Bluetooth Low Energy
+Housed web server for prototype, communications through Bluetooth Low Energy
 ![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/pasted_image0.png)
 
 

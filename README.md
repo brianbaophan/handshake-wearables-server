@@ -3,7 +3,7 @@
 Technologies used: Python, AWS DynamoDB, Google APIs, Raspberry Pi
 
 ### Prototype:
-note: hardware can be discussed with other members of the team
+hardware can be discussed with other members of the team
 ![alt text](https://github.com/brianxphan/handshake-wearables-server/blob/master/images/Screen_Shot_2019-10-11_at_4.43.14_PM.png)
 
 ### AWS DynamoDB:
